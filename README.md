@@ -1,5 +1,5 @@
 # Mecky Creus WordPress Heroku Site
-| deploying a version of WordPress running on MySQL on Heroku platform
+>deploying a version of WordPress running on MySQL on Heroku platform
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). The repository comes bundled with:
 * [Advanced Custom Fields Pro](https://github.com/wp-premium/advanced-custom-fields-pro) 
