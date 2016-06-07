@@ -34,11 +34,11 @@ Deploy to Heroku
 
 Open the application in a browser:
 
-    $heroku open
+    $ heroku open
 
 ## Usage
 
-Because a file cannot be written to Heroku's file system, updating and installing plugins or themes should be done locally and then pushed to Heroku.
+Updates and install plugins or themes should be done locally and then pushed to Heroku.
 
 ## Updating
 
