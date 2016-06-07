@@ -2,7 +2,9 @@
 >deploying a version of WordPress running on MySQL on Heroku platform
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). The repository comes bundled with:
-* [Advanced Custom Fields Pro](https://github.com/wp-premium/advanced-custom-fields-pro) 
+* [Advanced Custom Fields Pro](https://github.com/wp-premium/advanced-custom-fields-pro)
+* [All in one SEO pack](https://wordpress.org/plugins/all-in-one-seo-pack/)
+* [WP Google Analytics](https://wordpress.org/plugins/wp-google-analytics/) 
 
 ## Demo
 [Mecky Creus WordPress Website](http://meckycreus.com/)
