@@ -1,0 +1,49 @@
+/*
+  Theme Name: meckycreus
+  Theme URI: http://meckycreus.com/
+  Description: Mecky Creus WordPress Theme
+  Version: 0.0.1
+  Author: Vanessa Martinez (@vanss472)
+  Author URI: https://about.me/vanss472
+  Tags: Responsive, HTML5, CSS3
+
+  License: MIT
+  License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+/* ------------------------------------  */
+/* START OF UGLY BROWSER-SPECIFIC HACKS */
+/* ----------------------------------- */
+x:-o-prefocus, .select::after {
+  display: none;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .select select::-ms-expand {
+    display: none;
+  }
+
+  .select select:focus::-ms-value {
+    background: transparent;
+    color: #222;
+  }
+}
+@-moz-document url-prefix() {
+  .select {
+    overflow: hidden;
+  }
+
+  .select select {
+    width: 120%;
+    width: -moz-calc(100% + 3em);
+    width: calc(100% + em);
+  }
+}
+.select select:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+}
+
+/* ------------------------------------  */
+/* END OF UGLY BROWSER-SPECIFIC HACKS   */
+/* ----------------------------------- */
