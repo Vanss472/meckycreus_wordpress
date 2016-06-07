@@ -32,6 +32,10 @@ Deploy to Heroku
 
     $ git push heroku staging:master
 
+Open the application in a browser:
+
+    $heroku open
+
 ## Usage
 
 Because a file cannot be written to Heroku's file system, updating and installing plugins or themes should be done locally and then pushed to Heroku.
