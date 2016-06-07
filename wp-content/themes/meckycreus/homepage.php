@@ -1,4 +1,15 @@
-<div class="slice hero">
+<?php
+/**
+ * The homepage content for our theme.
+ *
+ * This is the template that displays all of the landing page section
+ *
+ * @link https://developer.wordpress.org/themes/functionality/navigation-menus/
+ *
+ * @package meckycreus
+ */
+
+?><div class="slice hero">
 <div class="slice-row">
 	
 	<div class="hero-container">

@@ -1,4 +1,15 @@
-<header class="nav border-shadow">
+<?php
+/**
+ * The menu for our theme.
+ *
+ * This is the template that displays all of the <nav> section
+ *
+ * @link https://developer.wordpress.org/themes/functionality/navigation-menus/
+ *
+ * @package meckycreus
+ */
+
+?><header class="nav border-shadow">
 	<nav class="wrapper wrapper-rel">
 	<div class="slice slice-auto equal-height">
 	  	<div class="slice-item l-vertical-middle l-width-75">
