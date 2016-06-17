@@ -32,7 +32,7 @@ Create a new branch for any configuration/setup changes needed
 
 Deploy to Heroku
 
-    $ git push heroku staging:master
+    $ git push origin master
 
 Open the application in a browser:
 
