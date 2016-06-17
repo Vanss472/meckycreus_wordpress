@@ -1,4 +1,5 @@
 wp-config.php
+wp-content/uploads
 path/to/ignore/
 bin/
 *.md
