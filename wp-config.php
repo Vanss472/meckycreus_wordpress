@@ -27,16 +27,16 @@
 // define( 'AWS_SECRET_ACCESS_KEY', $_ENV["AWS_SECRET_ACCESS_KEY"]); 
 
 //local set up
-define('DB_NAME', 'meckycreus');
+// define('DB_NAME', '');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+// define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+// define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+// define('DB_HOST', 'localhost');
  
 // ** ClearDB settings - from Heroku Environment ** //
 $db = parse_url($_ENV["CLEARDB_DATABASE_URL"]); 
