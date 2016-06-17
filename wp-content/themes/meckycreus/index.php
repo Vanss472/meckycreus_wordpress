@@ -7,14 +7,16 @@
  * It is used to display a page when nothing more specific matches a query.
  * E.g., it puts together the home page when no home.php file exists.
  *
- * @link https://codex.wordpress.org/Template_Hierarchy
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#home-page-display
  *
  * @package meckycreus
  */
 
  get_header(); ?>
 
-<!-- Main content -->
+
+<!-- <php get_template_part('loop'); ?>		 -->
+
 
 <?php get_footer(); ?>
     

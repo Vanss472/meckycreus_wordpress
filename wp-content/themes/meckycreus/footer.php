@@ -10,6 +10,8 @@
  */
 
 ?>
+			</div><!-- /.wrapper -->
+		</div><!-- #content -->
 	</div><!-- #container -->
 
 	<div class="overlay">
@@ -17,7 +19,8 @@
         <div class="overlay-content iframe"></div>
     </div>
     
-    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/scripts.js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/lib.min.js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/scripts.min.js"></script>
 
     <?php wp_footer(); ?>
 </body>
