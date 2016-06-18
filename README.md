@@ -1,5 +1,5 @@
 # Mecky Creus WordPress Heroku Site
->deploying a version of WordPress running on MySQL on Heroku platform
+>staging version
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). The repository comes bundled with:
 * [Advanced Custom Fields](https://www.advancedcustomfields.com/)
@@ -61,4 +61,5 @@ WordPress needs to update the database. After push, navigate to:
 
 WordPress will prompt for updating the database. After that you'll be good
 to go.
+
 
